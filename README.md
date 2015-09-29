@@ -8,4 +8,4 @@ to use at CUSP
 
 - [CookBooks]()
 - [DataSets]()
-- [Resources](resources.md)
+- [Resources](resources.MD)
