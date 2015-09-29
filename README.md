@@ -6,9 +6,6 @@ CUSP templates
 A bunch of templates, cookbooks, scripts and base datasets 
 to use at CUSP
 
-## Content
-TBD
-
-## Data
-
-TBD
+- [CookBooks]()
+- [DataSets]()
+- [Resources](resources.md)
